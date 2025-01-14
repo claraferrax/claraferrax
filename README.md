@@ -27,15 +27,6 @@ I’m fascinated by how data can transform industries and wrote my Bachelor's th
 
 - Advanced Machine Learning Algorithms
 
-## 😄 Pronouns:
-
-She/Her
-
-## 📫 Let's Connect!
-
-🔗 **LinkedIn:** [https://www.linkedin.com/in/clara-maria-ferracini-961290211]  
-📧 **Email:** [claramferracini@gmail.com]
-
 
 
 
