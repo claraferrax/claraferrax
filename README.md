@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
 
 Welcome to my GitHub profile! I'm Clara Maria Ferracini, a passionate data scientist in training with a focus on leveraging AI and machine learning for impactful business solutions.
 
