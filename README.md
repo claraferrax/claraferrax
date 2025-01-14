@@ -27,13 +27,6 @@ I’m fascinated by how data can transform industries and wrote my Bachelor's th
 
 - Advanced Machine Learning Algorithms
 
-## 🗣️ Languages:
-
-- **Italian** (Mother Tongue)
-- **English** (Fluent)
-- **French** (Intermediate Proficiency)
-- **Spanish** (Basic Proficiency)
-
 ## 😄 Pronouns:
 
 She/Her
