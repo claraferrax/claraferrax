@@ -19,6 +19,9 @@ Welcome to my GitHub profile! I'm Clara Maria Ferracini – a Data Scientist in 
 
 I’m fascinated by how data can transform industries and wrote my Bachelor's thesis on the evolution of Large Language Models (LLMs). From exploring Natural Language Processing (NLP) to building predictive models, I love uncovering hidden patterns and driving data-powered decisions.
 
+## My Skills: 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,matlab,mysql,anaconda,bash,html,css,django,git,github)](https://skillicons.dev)
+
 ## 📚 Currently Learning:
 
 - Predictive Modeling
