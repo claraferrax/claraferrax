@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my GitHub profile! I'm Clara Maria Ferracini – a Data Scientist in training, currently pursuing my Master's in Big Data & Business Analytics at ESCP Business School. With a passion for turning data into actionable insights, my journey is driven by curiosity and innovation in AI, Machine Learning, and Predictive Analytics.
+Welcome to my GitHub profile! I’m Clara Maria Ferracini, a data scientist in training. I’m completing a Master’s in Big Data & Business Analytics at ESCP Business School. I am also a Business Intelligence Engineering intern at Amazon in Paris.
 
-I’m fascinated by how data can transform industries and wrote my Bachelor's thesis on the technical aspects and evolution of Large Language Models (LLMs). From exploring Natural Language Processing (NLP) to building predictive models, I love uncovering hidden patterns and driving data-powered decisions.
+I like turning data into clear insights that people can use. I work across AI, machine learning, and predictive analytics. I enjoy building end to end projects, from data prep to modeling and evaluation.
+
+I wrote my Bachelor’s thesis on how large language models evolve and how they affect higher education. I also explore NLP and anomaly detection, and I am currently working on thesis research that uses Projected Quantum Features (PQF) to study clustering and monitoring problems in supply chain settings.
 
 ## My Skills: 
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,vscode,r,matlab,mysql,anaconda,bash,html,css,django,git,github)](https://skillicons.dev)
